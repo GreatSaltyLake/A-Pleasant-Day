@@ -1,0 +1,1 @@
+  * [architectury-9.2.14-forge](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (by [shedaniel](https://www.curseforge.com/members/shedaniel/projects))
