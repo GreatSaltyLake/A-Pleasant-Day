@@ -1,4 +1,4 @@
-# A-Pleasant-Day
+# A Pleasant Day
 
 Welcome to my Minecraft modpack A Pleasant Day! The name is related to an early mission in a popular video game series and relates to the start of the your journey here. 
 
