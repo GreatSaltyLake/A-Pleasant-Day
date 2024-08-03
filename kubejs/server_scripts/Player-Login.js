@@ -5,9 +5,7 @@ PlayerEvents.loggedIn(event => {
     if (!event.player.stages.has('starting_items')) {
       // Add the stage
       event.player.stages.add('starting_items')
-      // Start in Tropicraft Dimension
       // Give some items to player
       event.player.give('ftbquests:book')
-      event.player.give('30x minecraft:apple')
     }
   })
