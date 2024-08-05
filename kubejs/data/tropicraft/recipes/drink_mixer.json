@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "tropicraft:chunk"
+    },
+    "Y": {
+      "item": "tropicraft:white_pearl"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "result": {
+    "item": "tropicraft:drink_mixer"
+  },
+  "show_notification": true
+}
