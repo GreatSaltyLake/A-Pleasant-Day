@@ -1,0 +1,32 @@
+// Removes unused Tropicraft recipes
+ServerEvents.recipes(apd => {
+    apd.remove({
+        output:
+        [
+        'tropicraft:mud',
+        'tropicraft:mud_with_pianguas',
+        'tropicraft:zircon_hoe',
+        'tropicraft:zircon_axe',
+        'tropicraft:zircon_shovel',
+        'tropicraft:zircon_pickaxe',
+        'tropicraft:zircon_sword',
+        'tropicraft:zirconium_hoe',
+        'tropicraft:zirconium_axe',
+        'tropicraft:zirconium_shovel',
+        'tropicraft:zirconium_pickaxe',
+        'tropicraft:zirconium_sword',
+        'tropicraft:eudialyte_hoe',
+        'tropicraft:eudialyte_axe',
+        'tropicraft:eudialyte_shovel',
+        'tropicraft:eudialyte_pickaxe',
+        'tropicraft:eudialyte_sword',
+        'tropicraft:fire_boots',
+        'tropicraft:fire_leggings',
+        'tropicraft:fire_chestplate',
+        'tropicraft:fire_helmet',
+        'tropicraft:zirconium_gem',
+        'tropicraft:zirconium_block',
+        'tropicraft:pina_colada'
+        ]
+    })
+})
