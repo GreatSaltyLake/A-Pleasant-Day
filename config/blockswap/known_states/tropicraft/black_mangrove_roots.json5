@@ -1,0 +1,8425 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "none"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "high"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "true",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "none",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "high",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "none",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "high",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "true",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "true",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "none",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "high",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"west": "low",
+			"waterlogged": "false",
+			"tall": "false",
+			"south": "low",
+			"north": "low",
+			"grounded": "false",
+			"east": "low"
+		},
+		"Name": "tropicraft:black_mangrove_roots"
+	}
+]
