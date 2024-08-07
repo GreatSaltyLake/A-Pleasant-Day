@@ -1,0 +1,26 @@
+{
+    "structures": [
+        {
+            "structure": "terralith:witch_hut",
+            "weight": 1
+        },
+        {
+            "structure": "terralith:valley_lodge",
+            "weight": 2
+        },
+        {
+            "structure": "terralith:glacial_hut",
+            "weight": 2
+        },
+        {
+            "structure": "terralith:igloo",
+            "weight": 2
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 2358902,
+        "spacing": 27,
+        "separation": 15
+    }
+}
