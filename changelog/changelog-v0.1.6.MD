@@ -38,7 +38,6 @@ next update will focus on Oceans and Taigas/Snowy biomes!\
 -   Noisium
 -   FastWorkbench
 -   FastFurnace
--   Cubic Sun & Moon by JoeFly (ResourcePack)
 
 ---
 
