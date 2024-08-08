@@ -1,0 +1,15 @@
+{
+  "structures":[
+
+  ],
+  "placement": {
+
+    "type": "mss:advanced_random_spread",
+
+    "salt": 665411587,
+
+    "spacing": 125,
+
+    "separation": 92
+  }
+}
