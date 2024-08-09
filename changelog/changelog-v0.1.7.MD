@@ -2,11 +2,16 @@
 
 ### Goals of this update
 
--   
+-   Increase the usefulness and life in the ocean
+-   Increase ambience and visuals of snow biomes
 
 ### Next Update Goals
 
--   
+-   With the ocean done, that is a majority of aboveground\
+changes that can be made for now. The next update will focus\
+on tying up a few loose ends, giving Pillagers and Illagers\
+a small revamp and the final smaller additions to biomes\
+that don't have a lot that can be done to them.
 
 ---
 
@@ -15,6 +20,7 @@
 #### Updates
 
 -   ImmediatelyFast v1.2.19
+-   JEI v15.11.2.44
 
 #### Added
 
