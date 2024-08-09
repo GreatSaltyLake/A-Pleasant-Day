@@ -87,5 +87,6 @@ to make editing this file much easier.
 	"swapper": {
 			"tropicraft:mud": "minecraft:mud",
 	   		"tropicraft:mud_with_pianguas": "minecraft:mud"
+			"tropicraft:eudialyte_block": "minecraft:obsidian"
 	 }
 }
