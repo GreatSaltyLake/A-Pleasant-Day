@@ -6,13 +6,13 @@
 	# Configure tooltip for burn time.
 	burnTimeTooltipMode = "onShift"
 	# Configure tooltip for durability.
-	durabilityTooltipMode = "enabled"
+	durabilityTooltipMode = "disabled"
 	# Configure tooltip for enchantability
-	enchantabilityTooltipMode = "enabled"
+	enchantabilityTooltipMode = "disabled"
 	# Configure tooltip for hunger and saturation.
 	foodTooltipMode = "enabled"
 	# Configure tooltip for max stack size.
-	maxStackSizeTooltipMode = "onShift"
+	maxStackSizeTooltipMode = "disabled"
 	# Configure tooltip for NBT data.
 	nbtTooltipMode = "disabled"
 	# Configure tooltip for registry name. E.g. minecraft:stone
