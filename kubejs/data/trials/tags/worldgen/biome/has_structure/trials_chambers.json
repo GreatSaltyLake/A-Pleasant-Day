@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_cold/overworld",
+    "#minecraft:is_dense/overworld",
+    "#minecraft:is_dry/overworld",
+    "#minecraft:is_hot/overworld",
+    "#minecraft:is_sparse/overworld",
+    "#minecraft:is_wet/overworld"
+  ]
+}
