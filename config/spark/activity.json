@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723669211806,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/18q8RihhhE"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668838730,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cT4KL58hql"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668793253,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vGFMCXS3Wl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668757863,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MY5XnU5b5g"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668561383,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GHJIbPYxak"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668516176,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/0dLv9J0oQt"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668459765,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/AaMVltPvrN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GreatSaltyLake",
+      "uniqueId": "ff15f010-0e2f-4831-996a-0ced52d7149e"
+    },
+    "time": 1723668414693,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ZBvVl0QKTB"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.fullscreen.menu.PopupMenu": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  }
+}

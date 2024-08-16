@@ -1,0 +1,25 @@
+{
+  "structures": [
+    {
+      "structure": "dungeonnowloading:labyrinth",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 269766545,
+    "exclusion_zone": {
+    
+      "other_set": 
+      [
+        "minecraft:mineshafts",
+        "betteroceanmonuments:ocean_monument",
+        "trials:trials_chambers"
+      ],
+      "chunk_count": 5
+    },
+
+    "spacing": 60,
+    "separation": 40
+  }
+}
