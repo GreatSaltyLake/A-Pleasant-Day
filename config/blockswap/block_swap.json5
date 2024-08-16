@@ -85,8 +85,8 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-			"tropicraft:mud": "minecraft:mud",
-	   		"tropicraft:mud_with_pianguas": "minecraft:mud"
-			"tropicraft:eudialyte_block": "minecraft:obsidian"
+		"mysticsbiomes:cherry_log": "minecraft:cherry_log",
+		"mysticsbiomes:pink_cherry_blossoms": "minecraft:cherry_leaves",
+		"mysticsbiomes:white_cherry_blossoms": "minecraft:cherry_leaves"
 	 }
 }

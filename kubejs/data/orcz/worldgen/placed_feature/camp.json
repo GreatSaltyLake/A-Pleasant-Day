@@ -1,0 +1,9 @@
+{
+  "feature": "orcz:camp",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 4     
+    }
+  ]
+}
