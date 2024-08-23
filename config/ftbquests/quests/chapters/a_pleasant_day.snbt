@@ -1,0 +1,802 @@
+{
+	autofocus_id: "26BD53ABFD0B0140"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_pleasant_day"
+	group: ""
+	icon: "undergarden:depthrock_pebble"
+	id: "546D362BB12D41AD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"ehm.. He.. Hello?"
+				""
+				"Sam: \"Oh! Hello, just on time! It's been a while.\""
+				""
+				"A while? This was meant to be a short trip and.. wait, who are you? Where's Joe? Where am I?!"
+			]
+			icon: {
+				Count: 1
+				id: "undergarden:underbean_on_a_stick"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "26BD53ABFD0B0140"
+			rewards: [{
+				id: "16A1BA5EACBDA58E"
+				item: {
+					Count: 1
+					id: "undergarden:underbean_on_a_stick"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			subtitle: "Welcome?"
+			tasks: [{
+				id: "5939BDD82BC4334B"
+				title: "Whoops..."
+				type: "checkmark"
+			}]
+			title: "Welcome!"
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["32C9F4FFD1D372B1"]
+			dependency_requirement: "one_completed"
+			description: [
+				"Sam: \"We'll get to Joe. Anyways, we missed. You'll need some food also! Lot's of edibles here! Nothing should kill you.\""
+				""
+				"Missed? How do you miss..? And ya.. good to know about the food. "
+				""
+				"Sam: \"Well, the Moon was our initial destination because of how close it was. We unfortunately underestimated how inaccurate the transportation method really was.\""
+				""
+				"Well.. doesn't take a genius to see I'm not on the moon... Where am I? How do you know so much about this place? "
+			]
+			id: "15014A1ED7BA4AB3"
+			rewards: [
+				{
+					count: 3
+					id: "150F7C4B3C157B9D"
+					item: "undergarden:roasted_underbeans"
+					type: "item"
+				}
+				{
+					id: "6A4E8B0937049AB4"
+					item: "undergarden:bloody_stew"
+					type: "item"
+				}
+				{
+					id: "26F893E8F1F7FDC8"
+					item: "undergarden:inky_stew"
+					type: "item"
+				}
+				{
+					id: "2CB790546B13F4C1"
+					item: "undergarden:indigo_stew"
+					type: "item"
+				}
+			]
+			subtitle: "So... About Joe?"
+			tasks: [
+				{
+					consume_items: true
+					count: 6L
+					id: "3005C6523D141F5B"
+					item: {
+						Count: 1
+						id: "itemfilters:or"
+						tag: {
+							items: [
+								{
+									Count: 1b
+									id: "undergarden:ink_mushroom"
+								}
+								{
+									Count: 1b
+									id: "undergarden:blood_mushroom"
+								}
+								{
+									Count: 1b
+									id: "undergarden:veil_mushroom"
+								}
+								{
+									Count: 1b
+									id: "undergarden:indigo_mushroom"
+								}
+							]
+						}
+					}
+					title: "Mushrooms"
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "3F12028A592C48C7"
+					item: "undergarden:underbeans"
+					type: "item"
+				}
+			]
+			title: "Food"
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["26BD53ABFD0B0140"]
+			description: [
+				"Sam: \"Well we'll get to that! First things first, get settled! If your luck is bad enough to have landed in a barren field, pull up some Shimmerweeds for sticks to turn into planks and scoop up some pebbles.\""
+				""
+				"Shimmerweeds? What are those.. and how do you know what's here?"
+				""
+				"Sam: \"Don't worry about that! They kind of look like glowing cotton balls.\""
+				""
+				"And where's Joe?"
+			]
+			id: "32C9F4FFD1D372B1"
+			rewards: [
+				{
+					id: "55FA176D81CD24A5"
+					item: "minecraft:bundle"
+					type: "item"
+				}
+				{
+					id: "0667C23A12F4F636"
+					item: "minecraft:torch"
+					type: "item"
+				}
+			]
+			subtitle: "Joe?"
+			tasks: [
+				{
+					count: 3L
+					id: "47A206191288633E"
+					item: { Count: 16, id: "minecraft:stick" }
+					type: "item"
+				}
+				{
+					count: 5L
+					id: "425FC73942E71D4E"
+					item: "undergarden:depthrock"
+					type: "item"
+				}
+			]
+			title: "Settling..."
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["15014A1ED7BA4AB3"]
+			dependency_requirement: "all_started"
+			description: ["Sam: \"If you're desperate, the vines on the roof bear a fruit. Not very tasty... but you won't starve!\""]
+			id: "19F64F4CCDAEB9FB"
+			rewards: [{
+				count: 4
+				id: "33206951527CACC0"
+				item: "alexscaves:glow_ink_bomb"
+				type: "item"
+			}]
+			subtitle: "Ohh droopy!"
+			tasks: [{
+				id: "0AA9B8F00E99BFFC"
+				item: "undergarden:droopvine_item"
+				type: "item"
+			}]
+			title: "Ceiling fruit?"
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["15014A1ED7BA4AB3"]
+			description: ["Sam: \"Not much tasty here growing in the ground... a few ingredients should make you a decent pie. It even provides a natural resistance to some weird purple liquid that's unique to this place!\""]
+			id: "6CB4F886C51C7410"
+			rewards: [{
+				count: 3
+				id: "7B4F851D0B0BEDC8"
+				item: "undergarden:gloomgourd_pie"
+				type: "item"
+			}]
+			subtitle: "This place has pie?"
+			tasks: [
+				{
+					consume_items: true
+					id: "61BD6FE91EA0DA6F"
+					item: "undergarden:glitterkelp"
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "345DD2787BFEBC6B"
+					item: "undergarden:gloomgourd"
+					type: "item"
+				}
+			]
+			title: "Local Bakery"
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["32C9F4FFD1D372B1"]
+			description: ["Sam: \"The plant life here is very unique! A naturally growing fuel source can be grown and harvested. It can even be used to make torchs or a campfire to relax and heal up in a pinch!\""]
+			id: "0E47127DDE70B9A0"
+			rewards: [{
+				id: "57B48AE2E994DB27"
+				item: "minecraft:campfire"
+				type: "item"
+			}]
+			subtitle: "Hot!"
+			tasks: [{
+				count: 3L
+				id: "436B7E776AD0A783"
+				item: "undergarden:ditchbulb"
+				type: "item"
+			}]
+			title: "Ditched me..."
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["15014A1ED7BA4AB3"]
+			description: [
+				"Sam: \"Slow down! We're on our way to that. Listen, you're below that planets surface and ores are sparse. We detected a unique material named Cloggrum that should suffice. Gems and ores you're familiar with are all above and below as well.. I'd suggest gearing up.\""
+				""
+				"Gear.. gear up for what? Again... Joe, this place, all the answers you have and don't have?!?"
+				""
+				"Sam: \"I'm here for your safety first. We'll get to those.\""
+				""
+				"Ya ya, clog you, clog that, food this... I got it. "
+			]
+			id: "776B9C5819D13876"
+			rewards: [{
+				count: 3
+				id: "2DD2BBE4D9ABF973"
+				item: "scalinghealth:bandages"
+				type: "item"
+			}]
+			subtitle: "JOE?"
+			tasks: [{
+				count: 10L
+				id: "52DF8DA234AA8063"
+				item: "undergarden:raw_cloggrum"
+				type: "item"
+			}]
+			title: "I'll clog yo... Wait."
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["776B9C5819D13876"]
+			description: ["Sam: \"This place seems to not have string.. keep an eye out for some short trees that don't grow straight to get some range!\""]
+			id: "787033AFDA17CA64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "197C73842C8025CD"
+				table_id: 2331228113745297273L
+				type: "choice"
+			}]
+			subtitle: "Blisterberries \\& Goo balls \\& Gronglets, oh my!"
+			tasks: [
+				{
+					id: "65052EBDF4189032"
+					item: {
+						Count: 1
+						id: "undergarden:slingshot"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "78BFC3654CF44F81"
+					item: {
+						Count: 1
+						id: "undergarden:cloggrum_shield"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Range!"
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["776B9C5819D13876"]
+			id: "46EA2F66F9B13986"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2811DAD62D19286E"
+				table_id: 6006977843066703774L
+				type: "random"
+			}]
+			tasks: [{
+				id: "580C476211472E5F"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_battleaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "Tools!"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["776B9C5819D13876"]
+			id: "7DF4272F1E064881"
+			rewards: [{
+				id: "71DD5C94690F2E64"
+				item: {
+					Count: 1
+					id: "undergarden:cloggrum_shield"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4ADB53CC6E31B9F3"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:cloggrum_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "Armor!"
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["15014A1ED7BA4AB3"]
+			dependency_requirement: "all_started"
+			description: ["Sam: \"Nothing much around here that's comfy... those little green guys should do if you get tired though!\""]
+			id: "6E71DE3DC18EB531"
+			rewards: [{
+				id: "63A95D07FB581B4F"
+				item: "undergarden:depthrock_bed"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "undergarden:mog"
+				icon: "undergarden:mog_spawn_egg"
+				id: "149E534A0E049290"
+				type: "kill"
+				value: 3L
+			}]
+			title: "So soft!"
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["32C9F4FFD1D372B1"]
+			icon: "undergarden:regalium_crystal"
+			id: "081DD12384286F7C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08650A0825D65ECD"
+				table_id: 2042704378040145837L
+				type: "random"
+			}]
+			subtitle: "Interesting..."
+			tasks: [{
+				advancement: "undergarden:undergarden/stoneborn_trade"
+				criterion: ""
+				id: "520CA308C3FCE275"
+				type: "advancement"
+			}]
+			title: "Interdimensional Trading"
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["776B9C5819D13876"]
+			description: [
+				"Sam: \"So! Onto getting you back. Through this world are some catacombs. Be careful.\""
+				""
+				"Oh great... we're moving even further from my questions. What is going on. "
+				""
+				"Sam: \"What is going on is I'm getting you back as my mission states.\""
+				""
+				"Mission? 1.. 2.. 3.. I've lost count, you keep adding questions and not answering.."
+			]
+			hide: true
+			icon: "undergarden:cloggrum_bars"
+			id: "4283DB6DCABD8388"
+			size: 1.5d
+			subtitle: "Just tell me already!"
+			tasks: [{
+				icon: "undergarden:cloggrum_bars"
+				id: "258874DA32EBA333"
+				structure: "undergarden:catacombs"
+				type: "structure"
+			}]
+			title: "The Catacombs"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["776B9C5819D13876"]
+			dependency_requirement: "all_started"
+			description: ["Sam: \"You've probably seen the red guys running around.. although they're not you're only enemy, they appear to be useful. Even after the  length at which we have studied this place... we're not sure what curse is bestowed upon them.\""]
+			icon: "undergarden:utheric_shard"
+			id: "421569DA8D70D213"
+			rewards: [{
+				count: 4
+				id: "720739C0E4998D44"
+				item: "undergarden:shard_torch"
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "undergarden:rotling"
+					icon: "undergarden:rotling_spawn_egg"
+					id: "4FDAFFB346042DAA"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "undergarden:rotwalker"
+					icon: "undergarden:rotwalker_spawn_egg"
+					id: "484AF6E4DDD6A0FF"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "undergarden:rotbeast"
+					icon: "undergarden:rotbeast_spawn_egg"
+					id: "74ADF8917801B908"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Are they... suffering?"
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["421569DA8D70D213"]
+			description: ["Sam: \"Ya! So like I said, we're not sure what curse is bestowed upon them. The same source of their power is also their weakness. Probably why they make the weird noises. Hopefully one of these helps resist whatever it is!\""]
+			id: "1CB7A460E1F9DA45"
+			rewards: [
+				{
+					id: "6892E35D0E47F8E1"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "undergarden:long_virulent_resistance"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D0DF4C2A51FCCE2"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "quark:long_resilience"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "705AB8C41131047E"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "minecraft:strong_turtle_master"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "It's their weakness?"
+			tasks: [{
+				id: "58F9A45CC37AD737"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "undergarden:utherium_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_helmet"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_chestplate"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_leggings"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:utherium_boots"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "Utherium Utilities "
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"46EA2F66F9B13986"
+				"242D7895619E2AA6"
+			]
+			description: ["Sam: \"Ya, so turns out Cloggrum tools can be upgraded with the Forgotten metal. Stuff is pretty tuff!\""]
+			hide: true
+			id: "532A52BDDC1D21EC"
+			rewards: [
+				{
+					id: "443D5EB40CBA6942"
+					item: {
+						Count: 1
+						id: "spelunkers_charm:candle_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "124AC4A8033C9F35"
+					item: {
+						Count: 1
+						id: "minecraft:potion"
+						tag: {
+							Potion: "spelunkers_charm:long_haste"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "664A20CE310D5015"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "undergarden:forgotten_battleaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:forgotten_sword"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:forgotten_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:forgotten_axe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:forgotten_shovel"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
+								id: "undergarden:forgotten_hoe"
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+				type: "item"
+			}]
+			title: "Forgotten Tools"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["242D7895619E2AA6"]
+			description: [
+				"Sam: \"Oh good! You found it. Construct a catalyst and make a traditional portal out of Depthstone Bricks or Shiverstone Bricks. Try to put it up high!\""
+				""
+				"Ok.. so.. uh, 5 tall.. 4 wide.. and.. activate. Oh! Wow, that's it. "
+				""
+				"Sam: \"Unfortunately I cannot control where this thing puts you... it'll bring you back here just.. where? Not sure! Be prepared for anything... once you're safe we'll get to your questions!\""
+				""
+				"Oh now I'm excited! In we go! "
+			]
+			id: "035825645412FC15"
+			size: 1.75d
+			subtitle: "Anyways... JOE?!"
+			tasks: [{
+				id: "25F59603E428FAD5"
+				item: "undergarden:catalyst"
+				type: "item"
+			}]
+			title: "Freedom!"
+			x: -4.375d
+			y: 1.75d
+		}
+		{
+			dependencies: ["4283DB6DCABD8388"]
+			description: [
+				"Sam: \"Don't worry! We'll have you out soon. I've got all your questions memorized. You'll need to find a big blue thing.. we're not sure what it is but be careful! Although it feels like everything here is kind of just.. surviving... like you!\""
+				""
+				"Oh we have jokes now... I'll find it. "
+				""
+				"Sam: \"Good! Cause if you don't, you're stuck.\""
+				""
+				"Not the most desirable place to be... the air is thick here and nothing feels like it's wants to be here. So I think I'll pass on being stuck. "
+			]
+			id: "242D7895619E2AA6"
+			subtitle: "Just like me..."
+			tasks: [{
+				entity: "undergarden:forgotten_guardian"
+				icon: "undergarden:forgotten_guardian_spawn_egg"
+				id: "7F47FB01A2F44555"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The Forgotten Metal..."
+			x: -3.0d
+			y: 2.5d
+		}
+	]
+	title: "A Pleasant Day!"
+}

@@ -71,9 +71,9 @@
       }
     ],
     "crd_penalty": {
-      "__default": 0.0,
-      "expert": 0.15,
-      "master": 0.3
+      "__default": 0.15,
+      "expert": 0.3,
+      "master": 0.45
     }
   },
   "features": {

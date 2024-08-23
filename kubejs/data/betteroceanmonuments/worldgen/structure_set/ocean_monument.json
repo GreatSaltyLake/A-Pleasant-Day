@@ -7,6 +7,16 @@
   ],
   "placement": {
     "salt": 784827271,
+    "exclusion_zone": {
+    
+      "other_set": 
+      [
+        "minecraft:mineshafts",
+        "trials:trials_chambers",
+        "dungeonnowloading:labyrinth"
+      ],
+      "chunk_count": 5
+    },
     "spacing": 50,
     "separation": 30,
     "type": "minecraft:random_spread"

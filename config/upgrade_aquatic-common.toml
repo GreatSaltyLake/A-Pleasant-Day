@@ -21,13 +21,13 @@
 	[mobs.thrasher]
 		#The max height that Thrashers can spawn at
 		#Range: -64 ~ 320
-		"Thrasher max spawn height" = 30
+		"Thrasher max spawn height" = 15
 		#The chance of a Thrasher spawning during the daytime
 		#Range: 0.0 ~ 1.0
-		"Thrasher daytime spawn chance" = 0.75
+		"Thrasher daytime spawn chance" = 0.5
 		#The chance a Thrasher has of spawning as a Great Thrasher in Deep Frozen Oceans
 		#Range: 0.0 ~ 1.0
-		"Great Thrasher spawn chance" = 0.25
+		"Great Thrasher spawn chance" = 0.2
 
 	[mobs.squid]
 		#If Squids give nearby entities Blindness when releasing ink

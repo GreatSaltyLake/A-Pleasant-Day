@@ -1,0 +1,12 @@
+{
+	id: "1C5924CF2237D7AD"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "undergarden:music_disc_gloomper_anthem" }
+		{ item: "undergarden:music_disc_limax_maximus" }
+		{ item: "undergarden:music_disc_mammoth" }
+		{ item: "undergarden:music_disc_relict" }
+	]
+	title: "SubUnderDiscs"
+}

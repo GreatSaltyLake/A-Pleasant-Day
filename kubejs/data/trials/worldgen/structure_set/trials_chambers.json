@@ -7,8 +7,17 @@
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 40,
-    "separation": 26,
+    "exclusion_zone": {
+      "other_set": 
+      [
+        "minecraft:mineshafts",
+        "betteroceanmonuments:ocean_monument",
+        "dungeonnowloading:labyrinth"
+      ],
+      "chunk_count": 5
+    },
+    "spacing": 55,
+    "separation": 41,
     "salt": 412788945
   }
 }

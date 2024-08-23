@@ -1,0 +1,274 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tutorial"
+	group: ""
+	id: "594616D39F2C595E"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The Tutorial section will serve as an informational section to make players aware of additions and mechanics that they should know from the start and minimize the need to tab out of game. All tutorials will offer a little bit of experience as well as a reward. "
+				""
+				"This is the only section that gives experience as a reward."
+				""
+				"Please use the Github \"Issues\" section for all bug reports and suggestions! "
+			]
+			icon: "minecraft:player_head"
+			id: "111B0856EC239A12"
+			rewards: [{
+				id: "596CB2488311FEDE"
+				type: "xp"
+				xp: 20
+			}]
+			size: 2.0d
+			subtitle: "Thanks for playing!"
+			tasks: [{
+				id: "33E0E4DFDEBEE769"
+				title: "Turial"
+				type: "checkmark"
+			}]
+			title: "Tutorial"
+			x: -3.75d
+			y: -3.75d
+		}
+		{
+			description: [
+				"This pack includes the Wall Jumped mod by AzureDoom. "
+				""
+				"Wall Cling: Jump towards a wall and hold the wall jump key (LSHIFT)."
+				""
+				"Wall Jump: While wall clinging, keep holding W and let go of LSHIFT to wall jump."
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:leaping"
+				}
+			}
+			id: "2BA3F239A9B1B2CB"
+			rewards: [{
+				id: "786486351E6A553E"
+				type: "xp"
+				xp: 20
+			}]
+			size: 1.0d
+			subtitle: "Spooderman!"
+			tasks: [{
+				id: "1FDBA03FD7548B51"
+				title: "Wall Jumping"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This pack features the Better Statistics mod by TheCSDev. "
+				""
+				"Check out the statistics menu to see what it does!"
+			]
+			icon: "minecraft:writable_book"
+			id: "13D9882F4C28635E"
+			rewards: [{
+				id: "46BDF0A6E1B00DEE"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "Why isn't this vanilla?"
+			tasks: [{
+				id: "2150809D45712010"
+				title: "Better Stats!"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This pack features Hoe Tweaks by Serilum. "
+				""
+				"Hoes can till and untill land. "
+				""
+				"Hoes are tied and will till sections varying from 1x1 up to 9x9 depending on material used."
+				""
+				"Hoes will harvest melons and pumpkins quicker."
+			]
+			icon: {
+				Count: 1
+				id: "minecraft:golden_hoe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5A4C1E6397146A6A"
+			rewards: [{
+				id: "03772B411224427C"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "Wait.. I shouldn't just make stone hoes?"
+			tasks: [{
+				id: "1D791888425A64AF"
+				title: "Hoe Tweaks"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			description: [
+				"This pack features Jumpy Boats by LobsterJohn."
+				""
+				"Whilst in any boat you can hop a small amount by holding space just like a horse. "
+			]
+			icon: "minecraft:oak_boat"
+			id: "7047B840354B16E0"
+			rewards: [{
+				id: "2013F2A83E9B4437"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "This is fun!"
+			tasks: [{
+				id: "7E7D2E3D9C570913"
+				title: "Jumping Boats?!?"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"This pack features Jump Over Fences by Kreezxil."
+				""
+				"Whilst near a fence or wall simply jump on/over it like any other block. This does not translate to mobs that previously could not already jump over these blocks."
+			]
+			icon: "minecraft:oak_fence"
+			id: "2CFDD7F9F90D1095"
+			rewards: [{
+				id: "43F064E585064525"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "You meddling kids!"
+			tasks: [{
+				id: "7414A4C654C00E68"
+				title: "Jumping Fences"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This pack features Lighty by andi_makes"
+				""
+				"Press F7 to show how mods can spawn."
+				""
+				"Press Shift + F7 to change the overlay settings. You can change it to the tradional X's and more!"
+			]
+			icon: "minecraft:torch"
+			id: "0980D33CE727F203"
+			rewards: [{
+				id: "06FDA28D645CBC84"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "Oh how I missed you!"
+			tasks: [{
+				id: "7CE32D0D6A6876DF"
+				title: "Light Overlay"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"This pack features Passiable Folliage by Snownee"
+				""
+				"Players will fall through leaf blocks. If landing on leaves, fall damage will be reduced. "
+				""
+				"The Leaf Walker enchant can be crafted with any enchanted book and any leaf block to allow walking on leaves normally. "
+			]
+			icon: "minecraft:oak_leaves"
+			id: "31FE69ABDB4CA732"
+			rewards: [{
+				id: "1C75B2A72D009B58"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "I'm falling!"
+			tasks: [{
+				id: "4F1B26071E4E594B"
+				title: "AhHHhhhH!"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"This pack features Storage Labels by MehVahdJukaar"
+				""
+				"Crafted with paper in a 2x2 configuration."
+				""
+				"Labels functions similar to Item Frames but can adapt to all surfaces and be physically connected to any solid block no matter the shape."
+				""
+				"By shift-clicking on a Label with an item you'll be able to change its image, showing that item you selected. "
+				""
+				"Clicking on a Label will let the player interact with the block behind, making it perfect for your storage systems. "
+				""
+				"Images shown by Labels are pixelated and colored to better fit Minecraft style. This works seamlessly for any item. "
+				""
+				"Can accept Glow Ink Sacks to make then glow in the dark. "
+				""
+				"Can be colored with any dye. "
+				""
+				"Using a Feather on them will display the item name. "
+				""
+				"Visuals can he heavily customized with the configs and texture packs."
+			]
+			icon: "labels:label"
+			id: "6F15C701BBE4FE13"
+			rewards: [{
+				id: "1CD0D54AF2D86106"
+				type: "xp"
+				xp: 20
+			}]
+			subtitle: "Signs are SOO last year"
+			tasks: [{
+				id: "235801D1A1E9A902"
+				title: "Labels!"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			description: [
+				"This pack features Just Enough Effect Descriptions by MehVahdJukaar along with Moderately Enough Effect Descriptions by neon_cranberries"
+				""
+				"Press \"U\" on any potion to see what it does. Please report all potions that don't!"
+			]
+			icon: "horse_colors:gender_change_item"
+			id: "5E425B9DC68BEF05"
+			rewards: [{
+				id: "1E20E8812057D9F8"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1536676007292887"
+				title: "What's this potion do?"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+	]
+	title: "Tutorial"
+}
