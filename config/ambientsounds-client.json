@@ -1,7 +1,7 @@
 {
   "general": {
     "engines": 0,
-    "volume": 0.8,
+    "volume": 0.7,
     "useSoundMasterSource": false,
     "scanStepAmount": 100,
     "playSoundWithOffset": true
@@ -47,8 +47,8 @@
     "beach": {
       "overall": 1,
       "beach": 1,
-      "seagull": 1,
-      "seagull-long": 1
+      "seagull": 0.7,
+      "seagull-long": 0.7
     },
     "cave_ambience": {
       "overall": 1,
@@ -195,14 +195,16 @@
     "animal": {
       "animal": 1,
       "bird": {
-        "bird": 1,
-        "bird_day": 1,
-        "bird_night": 1
+        "bird": 0.7,
+        "bird_day": 0.7,
+        "bird_night": 0.7
       },
       "cicadas": 1,
-      "cricket": 1,
-      "cricket_day": 1,
-      "cricket_night": 1
+      "cricket": {
+        "cricket": 1,
+        "cricket_day": 1,
+        "cricket_night": 1
+      }
     },
     "cave": 1,
     "weather": 1,

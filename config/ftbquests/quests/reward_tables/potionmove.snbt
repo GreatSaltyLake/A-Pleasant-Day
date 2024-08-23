@@ -1,0 +1,35 @@
+{
+	id: "535D12859DA20F9E"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:long_leaping"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:long_swiftness"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "minecraft:potion"
+				tag: {
+					Potion: "goblintraders:extended_slow_falling"
+				}
+			}
+		}
+	]
+	title: "PotionMove"
+}

@@ -4,10 +4,32 @@
     "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
     "mezz.jei.gui.recipes.RecipesGui": true,
     "journeymap.client.ui.fullscreen.Fullscreen": true,
-    "journeymap.client.ui.fullscreen.menu.PopupMenu": true
+    "journeymap.client.ui.fullscreen.menu.PopupMenu": true,
+    "net.salju.trialstowers.gui.CrafterGuiScreen": true,
+    "org.violetmoon.quark.content.automation.client.screen.CrafterScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
+    "net.orcinus.galosphere.client.gui.CombustionTableScreen": true,
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "com.minenash.seamless_loading_screen.FadeScreen": true,
+    "dev.latvian.mods.itemfilters.gui.InventoryFilterScreen": true,
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
-    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "net.salju.trialstowers.gui.CrafterGuiScreen": true,
+    "org.violetmoon.quark.content.automation.client.screen.CrafterScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
+    "net.orcinus.galosphere.client.gui.CombustionTableScreen": true,
+    "net.minecraft.client.gui.screens.inventory.SmithingScreen": true,
+    "de.maxhenkel.corpse.gui.CorpseInventoryScreen": true,
+    "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
+    "dev.schmarrn.lighty.ui.SettingsScreen": true,
+    "dev.latvian.mods.itemfilters.gui.InventoryFilterScreen": true,
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true
   }
 }

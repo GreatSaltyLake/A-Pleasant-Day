@@ -23,9 +23,6 @@
 			wigglewood = true
 			grongle = true
 
-		[types.leaves_type.orcz]
-			orc_wood = true
-
 		[types.leaves_type.biomeswevegone]
 			aspen = true
 			baobab = true
@@ -114,9 +111,6 @@
 			smogstem = true
 			wigglewood = true
 			grongle = true
-
-		[types.wood_type.orcz]
-			orc_wood = true
 
 		[types.wood_type.biomeswevegone]
 			aspen = true

@@ -4,7 +4,8 @@
   "default_packs": [
     "file/cubic-sun-moon-v1-8a.zip",
     "file/updated_aquaculture-1.0.zip",
-    "file/Warm Polar Bear.zip"
+    "file/Warm Polar Bear.zip",
+    "file/Undergarden Texture Changes.zip"
   ],
   "default_overrides": {
     "force_compatible": true
