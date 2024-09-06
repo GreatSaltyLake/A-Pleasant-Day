@@ -1,0 +1,57 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Spooderman!"
+    },
+    "description": [
+      "This pack includes the Wall Jumped mod by AzureDoom. ",
+      "",
+      "Wall Cling: Jump towards a wall and hold the wall jump key (LSHIFT).",
+      "",
+      "Wall Jump: While wall clinging, keep holding W and let go of LSHIFT to wall jump."
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -135,
+          -183
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:leaping"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Wall Jumping!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

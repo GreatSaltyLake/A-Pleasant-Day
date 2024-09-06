@@ -1,0 +1,76 @@
+{
+  "dependencies": [
+    "welcome"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "minecraft:stick",
+      "amount": 3,
+      "collection": "AUTOMATIC"
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "undergarden:depthrock",
+      "amount": 5,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "minecraft:bundle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "minecraft:torch",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Joe?"
+    },
+    "description": [
+      "Sam: \"Well we'll get to that! First things first, get settled! If your luck is bad enough to have landed in a barren field, pull up some Shimmerweeds for sticks to turn into planks and scoop up some pebbles.\"",
+      "",
+      "Shimmerweeds? What are those.. and how do you know what's here?",
+      "",
+      "Sam: \"Don't worry about that! They kind of look like glowing cotton balls.\"",
+      "",
+      "And where's Joe?"
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -95,
+          -113
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:depthrock",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "First steps"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

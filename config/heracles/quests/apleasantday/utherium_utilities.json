@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "are_they_suffering"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "minecraft:milk_bucket",
+        "count": 1,
+        "nbt": {
+          "Potion": "undergarden:long_virulent_resistance"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:long_turtle_master"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "It's their weakness?"
+    },
+    "description": [
+      "Sam: \"Ya! So like I said, we're not sure what curse is bestowed upon them. The same source of their power is also their weakness. Probably why they make the weird noises. Hopefully one of these helps resist whatever it is! Armor from it is pretty tough!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -157,
+          -18
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:utherium_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Utherium Utilities"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

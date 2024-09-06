@@ -1,0 +1,52 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Neat!"
+    },
+    "description": [
+      "This pack features Just Enough Effect Descriptions by MehVahdJukaar along with Moderately Enough Effect Descriptions by neon_cranberries",
+      "",
+      "Press \"U\" on any potion to see what it does. Please report all potions that don't!"
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -103,
+          -151
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "horse_colors:gender_change_item",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "What's this potion do?"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

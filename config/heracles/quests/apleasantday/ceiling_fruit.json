@@ -1,0 +1,57 @@
+{
+  "dependencies": [
+    "food"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "undergarden:droopvine_item",
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "alexscaves:glow_ink_bomb",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Oh droopy!"
+    },
+    "description": [
+      "Sam: \"If you're desperate, the vines on the roof bear a fruit. Not very tasty... but you won't starve!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -119,
+          -96
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:droopvine_item",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Ceiling fruit"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

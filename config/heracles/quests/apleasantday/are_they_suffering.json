@@ -1,0 +1,72 @@
+{
+  "dependencies": [
+    "ill_clog_yo_wait"
+  ],
+  "tasks": {
+    "1": {
+      "entity": {
+        "type": "undergarden:rotling"
+      },
+      "amount": 3,
+      "type": "heracles:kill_entity"
+    },
+    "2": {
+      "entity": {
+        "type": "undergarden:rotwalker"
+      },
+      "amount": 2,
+      "type": "heracles:kill_entity"
+    },
+    "3": {
+      "entity": {
+        "type": "undergarden:rotbeast"
+      },
+      "amount": 1,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:shard_torch",
+        "count": 4
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Sam: \"You've probably seen the red guys running around.. although they're not you're only enemy, they appear to be useful. Even after the  length at which we have studied this place... we're not sure what curse is bestowed upon them.\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -125,
+          -18
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:utheric_shard",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Are they... suffering?"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

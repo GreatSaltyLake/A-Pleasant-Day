@@ -1,0 +1,52 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Why isn't this vanilla?"
+    },
+    "description": [
+      "This pack features the Better Statistics mod by TheCSDev. ",
+      "",
+      "Check out the statistics menu to see what it does!"
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -151,
+          -167
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:writable_book",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Better Stats"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

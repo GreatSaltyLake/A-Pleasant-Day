@@ -1,0 +1,63 @@
+{
+  "dependencies": [
+    "food"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "undergarden:raw_cloggrum",
+      "amount": 10,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "scalinghealth:bandages",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "JOE?"
+    },
+    "description": [
+      "Sam: \"Slow down! We're on our way to that. Listen, you're below that planets surface and ores are sparse. We detected a unique material named Cloggrum that should suffice. Gems and ores you're familiar with are all above and below as well.. I'd suggest gearing up.\"",
+      "",
+      "Gear.. gear up for what? Again... Joe, this place, all the answers you have and don't have?!?",
+      "",
+      "Sam: \"I'm here for your safety first. We'll get to those.\"",
+      "",
+      "Ya ya, clog you, clog that, food this... I got it. "
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -94,
+          -18
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:raw_cloggrum",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "I'll clog yo... Wait"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

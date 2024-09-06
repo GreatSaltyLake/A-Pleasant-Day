@@ -1,0 +1,135 @@
+{
+  "dependencies": [
+    "first_steps"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "undergarden:veil_mushroom",
+      "nbt": {
+        "items": [
+          {
+            "Count": 1,
+            "id": "undergarden:veil_mushroom"
+          },
+          {
+            "Count": 1,
+            "id": "undergarden:ink_mushroom"
+          },
+          {
+            "Count": 1,
+            "id": "undergarden:indigo_mushroom"
+          },
+          {
+            "Count": 1,
+            "id": "undergarden:blood_mushroom"
+          }
+        ]
+      },
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "undergarden:ink_mushroom",
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "3": {
+      "type": "heracles:item",
+      "item": "undergarden:indigo_mushroom",
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "4": {
+      "type": "heracles:item",
+      "item": "undergarden:blood_mushroom",
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "5": {
+      "type": "heracles:item",
+      "item": "undergarden:underbeans",
+      "amount": 3,
+      "collection": "MANUAL"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:roasted_underbeans",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "undergarden:veiled_stew",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "3": {
+      "item": {
+        "id": "undergarden:indigo_stew",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "4": {
+      "item": {
+        "id": "undergarden:bloody_stew",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "5": {
+      "item": {
+        "id": "undergarden:inky_stew",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "So... About Joe?"
+    },
+    "description": [
+      "Sam: \"We'll get to Joe. Anyways, we missed. You'll need some food also! Lot's of edibles here! Nothing should kill you.\"",
+      "",
+      "Missed? How do you miss..? And ya.. good to know about the food. ",
+      "",
+      "Sam: \"Well, the Moon was our initial destination because of how close it was. We unfortunately underestimated how inaccurate the transportation method really was.\"",
+      "",
+      "Well.. doesn't take a genius to see I'm not on the moon... Where am I? How do you know so much about this place? "
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -94,
+          -82
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:underbeans",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Food"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

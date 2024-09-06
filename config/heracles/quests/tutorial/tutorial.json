@@ -1,0 +1,54 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "20": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Thanks for playing!\n"
+    },
+    "description": [
+      "The Tutorial section will serve as an informational section to make players aware of additions and mechanics that they should know from the start and minimize the need to tab out of game. All tutorials will offer a little bit of experience as well as a reward. ",
+      "",
+      "This is the only section that gives experience as a reward.",
+      "",
+      "Please use the Github \"Issues\" section for all bug reports and suggestions!"
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -135,
+          -215
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:player_head",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Tutorial"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

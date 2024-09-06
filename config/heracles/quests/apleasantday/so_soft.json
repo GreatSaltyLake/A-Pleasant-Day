@@ -1,0 +1,58 @@
+{
+  "dependencies": [
+    "food"
+  ],
+  "tasks": {
+    "1": {
+      "entity": {
+        "type": "undergarden:mog"
+      },
+      "amount": 3,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:depthrock_bed",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -58,
+          -82
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:mog_spawn_egg",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "So Soft..."
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

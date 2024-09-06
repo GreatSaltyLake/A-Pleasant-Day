@@ -195,11 +195,11 @@
     "animal": {
       "animal": 1,
       "bird": {
-        "bird": 0.7,
-        "bird_day": 0.7,
-        "bird_night": 0.7
+        "bird": 0.3,
+        "bird_day": 0.3,
+        "bird_night": 0.3
       },
-      "cicadas": 1,
+      "cicadas": 0.7,
       "cricket": {
         "cricket": 1,
         "cricket_day": 1,

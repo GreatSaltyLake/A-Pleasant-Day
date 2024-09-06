@@ -1,0 +1,71 @@
+{
+  "dependencies": [
+    "tools",
+    "the_forgotten_metal"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "spelunkers_charm:candle_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "spelunkers_charm:haste"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Sam: \"Ya, so turns out Cloggrum tools can be upgraded with the Forgotten metal. Stuff is pretty tuff!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -24,
+          -18
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:forgotten_pickaxe",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Forgotten Tools"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}

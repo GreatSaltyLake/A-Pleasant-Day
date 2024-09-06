@@ -1,0 +1,86 @@
+{
+  "dependencies": [
+    "ill_clog_yo_wait"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "undergarden:slingshot",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "undergarden:cloggrum_shield",
+      "nbt": {
+        "Damage": 0
+      },
+      "amount": 1,
+      "collection": "AUTOMATIC"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:rotten_blisterberry",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "undergarden:goo_ball",
+        "count": 3
+      },
+      "type": "heracles:item"
+    },
+    "3": {
+      "item": {
+        "id": "undergarden:gronglet",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Blisterberries & Goo balls & Gronglets, oh my!"
+    },
+    "description": [
+      "Sam: \"This place seems to not have string.. keep an eye out for some short trees that don't grow straight to get some range!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -69,
+          -43
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:cloggrum_shield",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Range!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

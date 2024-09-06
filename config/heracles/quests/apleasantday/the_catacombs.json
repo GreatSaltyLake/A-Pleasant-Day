@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "ill_clog_yo_wait"
+  ],
+  "tasks": {
+    "1": {
+      "icon": {
+        "item": {
+          "id": "undergarden:cloggrum_bars",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "structures": "undergarden:catacombs",
+      "type": "heracles:structure"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Just tell me already!"
+    },
+    "description": [
+      "Sam: \"So! Onto getting you back. Through this world are some catacombs. Be careful.\"",
+      "",
+      "Oh great... we're moving even further from my questions. What is going on. ",
+      "",
+      "Sam: \"What is going on is I'm getting you back as my mission states.\"",
+      "",
+      "Mission? 1.. 2.. 3.. I've lost count, you keep adding questions and not answering.."
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -94,
+          34
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:cloggrum_bars",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Catacombs"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}
