@@ -1,0 +1,56 @@
+{
+  "dependencies": [
+    "the_catacombs"
+  ],
+  "tasks": {
+    "1": {
+      "entity": {
+        "type": "undergarden:forgotten_guardian"
+      },
+      "amount": 1,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Just like me...\n"
+    },
+    "description": [
+      "Sam: \"Don't worry! We'll have you out soon. I've got all your questions memorized. You'll need to find a big blue thing.. we're not sure what it is but be careful! Although it feels like everything here is kind of just.. surviving... like you!\"",
+      "",
+      "Oh we have jokes now... I'll find it. ",
+      "",
+      "Sam: \"Good! Cause if you don't, you're stuck.\"",
+      "",
+      "Not the most desirable place to be... the air is thick here and nothing feels like it's wants to be here. So I think I'll pass on being stuck. "
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -94,
+          67
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:forgotten_guardian_spawn_egg",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "The Forgotten Metal"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}

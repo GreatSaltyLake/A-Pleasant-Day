@@ -1,0 +1,16 @@
+[01:47:06] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[01:47:06] [INIT] Loaded plugins:
+[01:47:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:47:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[01:47:06] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[01:47:06] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[01:47:06] [INIT] - com.almostreliable.morejs.Plugin
+[01:47:06] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[01:47:06] [INFO] Loaded script client_scripts:alexscaves/alexscaves-hide.js in 0.035 s
+[01:47:06] [INFO] Loaded script client_scripts:item-filters/if-hide.js in 0.0 s
+[01:47:06] [INFO] Loaded script client_scripts:mystic's/mystics-hide.js in 0.0 s
+[01:47:06] [INFO] Loaded script client_scripts:trial-chambers/tc-hide.js in 0.0 s
+[01:47:06] [INFO] Loaded script client_scripts:uprade-aquatic/aq-hide.js in 0.0 s
+[01:47:06] [INFO] Loaded script client_scripts:vanilla/show.js in 0.0 s
+[01:47:06] [INFO] Loaded 6/6 KubeJS client scripts in 0.052 s with 0 errors and 0 warnings
+[01:47:13] [INFO] Client resource reload complete!

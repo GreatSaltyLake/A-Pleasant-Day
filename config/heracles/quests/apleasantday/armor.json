@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "ill_clog_yo_wait"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "undergarden:virulent_resistance"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Sam, \"You can make a full set of Cloggrum Armor!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -70,
+          7
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:cloggrum_helmet",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Armor!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

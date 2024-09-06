@@ -1,0 +1,69 @@
+{
+  "dependencies": [
+    "the_forgotten_metal"
+  ],
+  "tasks": {
+    "1": {
+      "icon": {
+        "item": {
+          "id": "minecraft:grass_block",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "from": "undergarden:undergarden",
+      "to": "minecraft:overworld",
+      "type": "heracles:changed_dimension"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "boatload:oak_furnace_boat",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Anyways... JOE?!"
+    },
+    "description": [
+      "Sam: \"Oh good! You found it. Construct a catalyst and make a traditional portal out of Depthstone Bricks or Shiverstone Bricks. Try to put it up high!\"",
+      "",
+      "Ok.. so.. uh, 5 tall.. 4 wide.. and.. activate. Oh! Wow, that's it. ",
+      "",
+      "Sam: \"Unfortunately I cannot control where this thing puts you... it'll bring you back here just.. where? Not sure! Be prepared for anything... once you're safe we'll get to your questions!\"",
+      "",
+      "Oh now I'm excited! In we go! "
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -120,
+          41
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:catalyst",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Freedom!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "DEPENDENCIES_VISIBLE",
+    "unlockNotification": false
+  }
+}

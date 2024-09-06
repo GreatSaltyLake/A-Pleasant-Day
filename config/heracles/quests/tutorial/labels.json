@@ -1,0 +1,68 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Signs are SOO last year"
+    },
+    "description": [
+      "This pack features Storage Labels by MehVahdJukaar",
+      "",
+      "Crafted with paper in a 2x2 configuration.",
+      "",
+      "Labels functions similar to Item Frames but can adapt to all surfaces and be physically connected to any solid block no matter the shape.",
+      "",
+      "By shift-clicking on a Label with an item you'll be able to change its image, showing that item you selected. ",
+      "",
+      "Clicking on a Label will let the player interact with the block behind, making it perfect for your storage systems. ",
+      "",
+      "Images shown by Labels are pixelated and colored to better fit Minecraft style. This works seamlessly for any item. ",
+      "",
+      "Can accept Glow Ink Sacks to make then glow in the dark. ",
+      "",
+      "Can be colored with any dye. ",
+      "",
+      "Using a Feather on them will display the item name. ",
+      "",
+      "Visuals can he heavily customized with the configs and texture packs."
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -167,
+          -151
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "labels:label",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Labels!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

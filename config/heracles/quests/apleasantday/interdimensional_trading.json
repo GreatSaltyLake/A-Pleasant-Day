@@ -1,0 +1,55 @@
+{
+  "dependencies": [
+    "first_steps"
+  ],
+  "tasks": {
+    "1": {
+      "entity": "undergarden:stoneborn",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:music_disc_gloomper_anthem",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Interesting.."
+    },
+    "description": [
+      ""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -79,
+          -139
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:regalium_crystal",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Interdimensional Trading"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

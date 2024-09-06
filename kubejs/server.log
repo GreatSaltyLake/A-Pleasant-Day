@@ -1,0 +1,28 @@
+[02:01:47] [INIT] KubeJS 2001.6.5-build.14; MC 2001 forge
+[02:01:47] [INIT] Loaded plugins:
+[02:01:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:01:47] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[02:01:47] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[02:01:47] [INIT] - pie.ilikepiefoo.kubejsoffline.OfflinePlugin
+[02:01:47] [INIT] - com.almostreliable.morejs.Plugin
+[02:01:47] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[02:01:47] [INFO] Loaded script server_scripts:alexs-caves/remove.js in 0.001 s
+[02:01:47] [INFO] Loaded script server_scripts:item-filters/remove.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:Player-Login.js in 0.001 s
+[02:01:47] [INFO] Loaded script server_scripts:rawblocksmelt/recipe-add.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:tags/tags.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:trial-chambers/remove.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:undergarden/shimmerstick.js in 0.001 s
+[02:01:47] [INFO] Loaded script server_scripts:upgrade-aquatic/aq-fix-coral.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:upgrade-aquatic/remove.js in 0.0 s
+[02:01:47] [INFO] Loaded script server_scripts:vanilla/recipe-add.js in 0.0 s
+[02:01:47] [INFO] Loaded 10/10 KubeJS server scripts in 0.007 s with 0 errors and 0 warnings
+[02:01:47] [INFO] Scripts loaded
+[02:01:47] [INFO] Initializing recipe event...
+[02:01:47] [INFO] [minecraft:item] Found 833 tags, added 2 objects, removed 0 objects
+[02:01:47] [INFO] Processing recipes...
+[02:01:47] [WARN] Failed to parse recipe 'seadwellers:depth_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[02:01:47] [INFO] Found 6999 recipes in 37.63 ms
+[02:01:47] [INFO] Posted recipe events in 4.186 ms
+[02:01:47] [INFO] Added 6 recipes, removed 19 recipes, modified 0 recipes, with 0 failed recipes in 8.764 ms
+[02:01:47] [INFO] Server resource reload complete!

@@ -1,0 +1,54 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "I'm falling!!"
+    },
+    "description": [
+      "This pack features Passiable Folliage by Snownee",
+      "",
+      "Players will fall through leaf blocks. If landing on leaves, fall damage will be reduced. ",
+      "",
+      "The Leaf Walker enchant can be crafted with any enchanted book and any leaf block to allow walking on leaves normally. "
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -103,
+          -183
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oak_leaves",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "AhhHHHh!!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

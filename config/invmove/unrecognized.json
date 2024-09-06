@@ -16,7 +16,15 @@
     "dev.schmarrn.lighty.ui.SettingsScreen": true,
     "com.minenash.seamless_loading_screen.FadeScreen": true,
     "dev.latvian.mods.itemfilters.gui.InventoryFilterScreen": true,
-    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
+    "earth.terrarium.heracles.client.screens.quests.QuestsScreen": true,
+    "earth.terrarium.heracles.client.screens.quests.QuestsEditScreen": true,
+    "io.github.mortuusars.chalk.client.gui.ChalkBoxScreen": true,
+    "earth.terrarium.heracles.client.screens.quest.QuestScreen": true,
+    "earth.terrarium.heracles.client.screens.quest.QuestEditScreen": true,
+    "funwayguy.betterquesting.bootstrap.forge.client.MCScreenProxy": true,
+    "org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen": true,
+    "earth.terrarium.cadmus.client.claims.ClaimScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -30,6 +38,8 @@
     "dev.schmarrn.lighty.ui.ModeSwitcherScreen": true,
     "dev.schmarrn.lighty.ui.SettingsScreen": true,
     "dev.latvian.mods.itemfilters.gui.InventoryFilterScreen": true,
-    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true
+    "de.maxhenkel.corpse.gui.DeathHistoryScreen": true,
+    "io.github.mortuusars.chalk.client.gui.ChalkBoxScreen": true,
+    "earth.terrarium.cadmus.client.claims.ClaimScreen": true
   }
 }

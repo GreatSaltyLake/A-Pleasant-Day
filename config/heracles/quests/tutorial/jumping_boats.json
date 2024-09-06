@@ -1,0 +1,52 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This is fun!"
+    },
+    "description": [
+      "This pack features Jumpy Boats by LobsterJohn.",
+      "",
+      "Whilst in any boat you can hop a small amount by holding space just like a horse. "
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -119,
+          -199
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oak_boat",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Jumping Boats?!?"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "dependencies": [
+    "ill_clog_yo_wait"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:slow_falling"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "2": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:strong_swiftness"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Sam, \"You can make a variety of tools with the Cloggrum!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -58,
+          -18
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:cloggrum_sword",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Tools!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

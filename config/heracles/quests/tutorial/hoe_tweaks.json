@@ -1,0 +1,59 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "20": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Wait.. I shouldn't just make stone hoes?"
+    },
+    "description": [
+      "This pack features Hoe Tweaks by Serilum. ",
+      "",
+      "Hoes can till and untill land. ",
+      "",
+      "Hoes are tiered and will till sections varying from 1x1 up to 9x9 depending on material used.",
+      "",
+      "Hoes will harvest melons and pumpkins quicker."
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -151,
+          -199
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:golden_hoe",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Hoe Tweaks"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

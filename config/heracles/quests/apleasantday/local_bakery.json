@@ -1,0 +1,63 @@
+{
+  "dependencies": [
+    "food"
+  ],
+  "tasks": {
+    "1": {
+      "type": "heracles:item",
+      "item": "undergarden:glitterkelp",
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "2": {
+      "type": "heracles:item",
+      "item": "undergarden:gloomgourd",
+      "amount": 1,
+      "collection": "MANUAL"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:gloomgourd_pie",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "This place has pie?"
+    },
+    "description": [
+      "Sam: \"Not much tasty here growing in the ground... a few ingredients should make you a decent pie. It even provides a natural resistance to some weird purple liquid that's unique to this place!\""
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -119,
+          -68
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:gloomgourd",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Local Bakery"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

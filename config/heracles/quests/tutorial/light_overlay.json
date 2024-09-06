@@ -1,0 +1,54 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "xptype": "POINTS",
+      "amount": 50,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "I can see!"
+    },
+    "description": [
+      "This pack features Lighty by andi_makes",
+      "",
+      "Press F7 to show how mods can spawn.",
+      "",
+      "Press Shift + F7 to change the overlay settings. You can change it to the tradional X's and more!"
+    ],
+    "groups": {
+      "Tutorial": {
+        "position": [
+          -166,
+          -183
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:torch",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Light Overlay"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

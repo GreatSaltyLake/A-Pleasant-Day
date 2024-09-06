@@ -1,0 +1,62 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "1": {
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "1": {
+      "item": {
+        "id": "undergarden:underbean_on_a_stick",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "Welcome?"
+    },
+    "description": [
+      "ehm.. He.. Hello?",
+      "",
+      "Sam: \"Oh! Hello, just on time! It's been a while.\"",
+      "",
+      "A while? This was meant to be a short trip and.. wait, who are you? Where's Joe? Where am I?!"
+    ],
+    "groups": {
+      "A Pleasant Day!": {
+        "position": [
+          -120,
+          -145
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "undergarden:underbean_on_a_stick",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Welcome!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
